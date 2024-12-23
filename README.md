@@ -56,34 +56,46 @@
 
 ---
 
-## 🧑‍💻 Data Scientist Intern  
-**WorldQuant University** · *Remote*  
-**May 2023 - May 2023** (1 month)  
+## 🧑‍💻 Part-Time Coordinator  
+**Almentor**  
+**Jun 2024 – Present**  
 
 **Key Responsibilities:**
-- Engaged in the **Applied Data Science Lab**, applying data science methodologies to real-world projects.
+- Assisted instructors in organizing sessions to ensure smooth delivery and effective learning outcomes.
+- Managed audience logistics, ensuring attendees were well-informed and engaged.
+- Provided support to students during sessions, addressing their needs and facilitating their participation.
 
-[![Statistical Analysis](https://img.shields.io/badge/Statistical_Analysis-8A2BE2?style=for-the-badge)](https://en.wikipedia.org/wiki/Statistical_analysis) [![Databases](https://img.shields.io/badge/Databases-FF4500?style=for-the-badge)](https://www.databases.com)  [![Data Analysis](https://img.shields.io/badge/Data_Analysis-32CD32?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_analysis) [![Hypothesis Testing](https://img.shields.io/badge/Hypothesis_Testing-1E90FF?style=for-the-badge)](https://en.wikipedia.org/wiki/Hypothesis_testing)  [![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Machine_learning) [![Statistics](https://img.shields.io/badge/Statistics-FF6347?style=for-the-badge)](https://en.wikipedia.org/wiki/Statistics)  [![Time Series Forecasting](https://img.shields.io/badge/Time_Series_Forecasting-8B008B?style=for-the-badge)](https://en.wikipedia.org/wiki/Time_series) [![Data Visualization](https://img.shields.io/badge/Data_Visualization-1E90FF?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_visualization)  [![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_cleansing) [![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-8A2BE2?style=for-the-badge)](https://en.wikipedia.org/wiki/Feature_engineering)
+[![Session Management](https://img.shields.io/badge/Session_Management-32CD32?style=for-the-badge)](https://en.wikipedia.org/wiki/Management) [![Event Coordination](https://img.shields.io/badge/Event_Coordination-1E90FF?style=for-the-badge)](https://en.wikipedia.org/wiki/Event_management) [![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel) [![LMS](https://img.shields.io/badge/LMS-FF6347?style=for-the-badge)](https://en.wikipedia.org/wiki/Learning_management_system) [![Communication](https://img.shields.io/badge/Communication-32CD32?style=for-the-badge)](https://en.wikipedia.org/wiki/Communication) 
+
+---
+
+## 🖥️ NLP Engineer  
+**SMSM AI**  
+**Mar 2024 – Jun 2024**  
+
+**Key Responsibilities:**
+- Spearheaded a real-time project focused on Egyptian dialect machine translation.
+- Elevated to the position of **Team Leader** within the project team.
+- Successfully led the team in collecting relevant data for the project.
+- Oversaw the implementation of machine translation models.
+- Achieved significant success in project execution, leading to notable outcomes.
+
+[![Machine Translation](https://img.shields.io/badge/Machine_Translation-8A2BE2?style=for-the-badge)](https://en.wikipedia.org/wiki/Machine_translation) [![Natural Language Processing](https://img.shields.io/badge/NLP-1E90FF?style=for-the-badge)](https://en.wikipedia.org/wiki/Natural_language_processing) [![Data Collection](https://img.shields.io/badge/Data_Collection-32CD32?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_collection) ![Model Implementation](https://img.shields.io/badge/Model_Implementation-FFD700?style=for-the-badge) [![Team Leadership](https://img.shields.io/badge/Team_Leadership-FFA500?style=for-the-badge)](https://en.wikipedia.org/wiki/Leadership)
+[![Transformers](https://img.shields.io/badge/Transformers-FF4500?style=for-the-badge)](https://en.wikipedia.org/wiki/Transformer_(machine_learning_model)) [![LLM](https://img.shields.io/badge/LLM-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Large_language_model) [![Model Tuning](https://img.shields.io/badge/Model_Tuning-32CD32?style=for-the-badge)](https://en.wikipedia.org/wiki/Hyperparameter_optimization) [![Data Collection](https://img.shields.io/badge/Data_Collection-4B0082?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_collection)
 
 ---
 
-## 🖥️ Software Engineer  
-**Self-employed**  
-**Nov 2021 - Dec 2022** (1 year 2 months)  
-**Location:** Egypt  
+## 🧑‍💻 AI Trainee  
+**Zewail City**  
+**Aug 2023 – Jan 2024**  
 
-**Key Projects:**
-- **FCAI App:** Designed to assist classmates with academic materials, streamlining access to resources.
-- **Tasbeeh App:** Developed a digital tool for tasbeeh, enhancing users' spiritual practices.
-- **Hoozgram:** Built an app for mood tracking, promoting emotional awareness.
-- **3D Game:** Created a 3D game using Unity Engine, offering engaging gameplay experiences.
-- **AR App:** Developed an augmented reality application, delivering immersive experiences.
-- **Food Recipes App:** Released a user-friendly app featuring a variety of food recipes.
-- **Website Development:** Built dynamic websites using various technologies, showcasing a full-stack development skill set.
+**Key Learning Areas:**
+- Acquired a comprehensive understanding of data science and artificial intelligence principles to analyze real-world data and contribute to technological innovation.
+- Developed proficiency in big data analytics, machine learning, and AI techniques to drive data-driven decision-making processes.
+- Gained hands-on experience in Python, deep learning, and AI applications.
 
-[![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com) [![Problem Solving](https://img.shields.io/badge/Problem_Solving-FF69B4?style=for-the-badge)](https://en.wikipedia.org/wiki/Problem_solving)  [![NoSQL](https://img.shields.io/badge/NoSQL-4EA94B?style=for-the-badge&logo=nosql&logoColor=white)](https://www.nosql.com) [![Databases](https://img.shields.io/badge/Databases-FF4500?style=for-the-badge)](https://www.databases.com)  [![Augmented Reality](https://img.shields.io/badge/Augmented_Reality-32CD32?style=for-the-badge)](https://en.wikipedia.org/wiki/Augmented_reality) [![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sql&logoColor=white)](https://www.sql.com)  [![Web Development](https://img.shields.io/badge/Web_Development-4B0082?style=for-the-badge)](https://en.wikipedia.org/wiki/Web_development) [![User Experience (UX)](https://img.shields.io/badge/User_Experience-00BFFF?style=for-the-badge)](https://en.wikipedia.org/wiki/User_experience)  [![Agile Methodologies](https://img.shields.io/badge/Agile_Methodologies-FFA500?style=for-the-badge)](https://en.wikipedia.org/wiki/Agile_software_development) [![Version Control (Git)](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
+[![Data Science](https://img.shields.io/badge/Data_Science-32CD32?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_science) [![Deep Learning](https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge)](https://en.wikipedia.org/wiki/Deep_learning) [![Machine Learning](https://img.shields.io/badge/Machine_Learning-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Machine_learning) [![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-1E90FF?style=for-the-badge)](https://en.wikipedia.org/wiki/Artificial_intelligence) [![Python](https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org) [![Data Analysis](https://img.shields.io/badge/Data_Analysis-32CD32?style=for-the-badge)](https://en.wikipedia.org/wiki/Data_analysis) [![LLM](https://img.shields.io/badge/LLM-FF4500?style=for-the-badge)](https://en.wikipedia.org/wiki/Large_language_model) [![NLP](https://img.shields.io/badge/NLP-1E90FF?style=for-the-badge)](https://en.wikipedia.org/wiki/Natural_language_processing) [![Big Data](https://img.shields.io/badge/Big_Data-8B008B?style=for-the-badge)](https://en.wikipedia.org/wiki/Big_data) [![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-FFD700?style=for-the-badge)](https://en.wikipedia.org/wiki/Feature_engineering)
 
----
 
 
 
