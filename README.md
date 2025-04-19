@@ -1,6 +1,6 @@
 ![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
 <h1 align="center">Hi 👋, I'm Yousif Ibrahim</h1>
-<h3 align="center">Data Scientist,Data Analyst,AI And NLP Engineer</h3>
+<h3 align="center">Software Enginee,Data Scientist,Data Analyst,AI And NLP Engineer</h3>
 <h3 align="center">Transform complex data into clear, actionable insights</h3>
 
 
@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me:
 - 📋 **Resume**: Check out My Resume [**here**](https://drive.google.com/file/d/1sjizdmMks9jmDpW57i_AhbRakb4iI9Fj/view?usp=drive_link)  
-- 💬 **Ask me about**: Machine Learning, Deep Learning, Data Science, Data Analytics, AI, NLP and LLM 
+- 💬 **Ask me about**:Software Development, Machine Learning, Deep Learning, Data Science, Data Analytics, AI, NLP and LLM 
 - 📫 **Reach me at**: [Yousif Ibrahim Mail](mailto:yosefys236@gmail.com) | **+20 1127609258**  
 - ⚡ **Fun fact**: I transform complex data into clear, actionable insights!  
 - 📊 **Projects**: Check them out [**here**](https://github.com/UsfHajaj/Data-Analysis-Projects)  
@@ -105,6 +105,20 @@
 
 ### 🖥️ Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+
+### 🖥️ Software Development
+![ASP.NET Core Web API](https://img.shields.io/badge/ASP.NET_Core_Web_API-512BD4?style=flat&logo=.net&logoColor=white)
+![ASP.NET Core MVC](https://img.shields.io/badge/ASP.NET_Core_MVC-512BD4?style=flat&logo=.net&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-6DB33F?style=flat&logo=dotnet&logoColor=white)
+![LINQ](https://img.shields.io/badge/LINQ-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+
 
 ### 🤖 Machine Learning & NLP
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
@@ -138,6 +152,15 @@
 ![Amazon SageMaker](https://img.shields.io/badge/Amazon%20SageMaker-232F3E?style=flat&logo=amazon-sagemaker&logoColor=white)
 ![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-1E1E1E?style=flat&logo=azure-databricks&logoColor=white)
 ![S3 Bucket](https://img.shields.io/badge/S3%20Bucket-569A31?style=flat&logo=amazon-s3&logoColor=white)
+
+### ☁️ Tool
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=swagger&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
 
 
 ### Certifications
