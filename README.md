@@ -1,7 +1,7 @@
 ![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
 <h1 align="center">Hi 👋, I'm Yousif Ibrahim</h1>
 <h3 align="center">Software Engineer,Data Scientist,Data Analyst,AI And NLP Engineer</h3>
-<h3 align="center">Transform complex data into clear, actionable insights</h3>
+<h3 align="center">Transform complex data into clear, actionable insights and Ideas into Software</h3>
 
 
 ---
