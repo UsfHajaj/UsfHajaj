@@ -1,6 +1,6 @@
 ![MasterHead](https://i.redd.it/bpxxqqvps4h91.gif)
 <h1 align="center">Hi 👋, I'm Yousif Ibrahim</h1>
-<h3 align="center">Software Enginee,Data Scientist,Data Analyst,AI And NLP Engineer</h3>
+<h3 align="center">Software Engineer,Data Scientist,Data Analyst,AI And NLP Engineer</h3>
 <h3 align="center">Transform complex data into clear, actionable insights</h3>
 
 
@@ -166,50 +166,51 @@
 ### Certifications
 
 <p align="left" style="line-height: 2; display: flex; flex-wrap: wrap; gap: 10px;">
-  <a href='https://drive.google.com/file/d/1a3ytf-WZmpvRvSo51GeYQV0X8oDSSwbw/view' target="_blank">
-    <img alt='AWS Data Engineering' src='https://img.shields.io/badge/AWS_Data Engineering-100000?style=for-the-badge&logo=AWS Data Engineering&logoColor=white&labelColor=F45402&color=F45402'/>
+  <a href="https://drive.google.com/file/d/1a3ytf-WZmpvRvSo51GeYQV0X8oDSSwbw/view" target="_blank">
+    <img src="https://img.shields.io/badge/AWS_Data_Engineering-F45402?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Data Engineering" />
   </a>
-  
-  <a href='https://drive.google.com/file/d/1uvoiL5oWnAQXt2tPinPF9zQL3JVEVj2a/view' target="_blank">
-    <img alt='Artificial Intelligence and Applications Training' src='https://img.shields.io/badge/AI_| ZEWAIL City-100000?style=for-the-badge&logo=Artificial Intelligence and Applications Training&logoColor=white&labelColor=00D0FA&color=00D0FA'/>
+
+  <a href="https://drive.google.com/file/d/1uvoiL5oWnAQXt2tPinPF9zQL3JVEVj2a/view" target="_blank">
+    <img src="https://img.shields.io/badge/AI_Training_-_ZEWAIL_City-00D0FA?style=for-the-badge&logo=artstation&logoColor=white" alt="AI Training Zewail City" />
   </a>
-  
-  <a href='https://coursera.org/share/6f14f65ca58d8e3f737b0606d7b4e887' target="_blank">
-    <img alt='Python for Data Science' src='https://img.shields.io/badge/Python_for Data Science | IBM-100000?style=for-the-badge&logo=Python for Data Science&logoColor=white&labelColor=0532FB&color=0532FB'/>
+
+  <a href="https://coursera.org/share/6f14f65ca58d8e3f737b0606d7b4e887" target="_blank">
+    <img src="https://img.shields.io/badge/Python_for_Data_Science-0532FB?style=for-the-badge&logo=python&logoColor=white" alt="Python for Data Science" />
   </a>
-  
-  <a href='https://coursera.org/share/8a673ea6d594a7ce122a935863cbd192' target="_blank">
-    <img alt='Python Project for Data Science' src='https://img.shields.io/badge/Python_Project for Data Science  | IBM-100000?style=for-the-badge&logo=Python Project for Data Science &logoColor=white&labelColor=3D5CEA&color=3D5CEA'/>
+
+  <a href="https://coursera.org/share/8a673ea6d594a7ce122a935863cbd192" target="_blank">
+    <img src="https://img.shields.io/badge/Python_Project_for_Data_Science-3D5CEA?style=for-the-badge&logo=python&logoColor=white" alt="Python Project for Data Science" />
   </a>
-  
-  <a href='https://coursera.org/share/df1e1bb1c8c70f07558d408f213ec18a' target="_blank">
-    <img alt='Data Analysis' src='https://img.shields.io/badge/Data_Analysis | IBM-100000?style=for-the-badge&logo=Data Analysis&logoColor=white&labelColor=DA0EDD&color=DA0EDD'/>
+
+  <a href="https://coursera.org/share/df1e1bb1c8c70f07558d408f213ec18a" target="_blank">
+    <img src="https://img.shields.io/badge/Data_Analysis-DA0EDD?style=for-the-badge&logo=ibm&logoColor=white" alt="Data Analysis" />
   </a>
-  
-  <a href='https://drive.google.com/file/d/1SvZS0cUuhC_G_o5jk5ZA6Xfks0lHPXVw/view' target="_blank">
-    <img alt='Data Analytics Essentials' src='https://img.shields.io/badge/Data_Analytics Essentials | IBM-100000?style=for-the-badge&logo=Data Analytics Essentials&logoColor=white&labelColor=480949&color=480949'/>
+
+  <a href="https://drive.google.com/file/d/1SvZS0cUuhC_G_o5jk5ZA6Xfks0lHPXVw/view" target="_blank">
+    <img src="https://img.shields.io/badge/Data_Analytics_Essentials-480949?style=for-the-badge&logo=ibm&logoColor=white" alt="Data Analytics Essentials" />
   </a>
-  
-  <a href='https://coursera.org/share/f62fd75612da2954dc8811b6fb3d18f6' target="_blank">
-    <img alt='Microsoft Excel' src='https://img.shields.io/badge/Microsoft_Excel-100000?style=for-the-badge&logo=Microsoft Excel&logoColor=white&labelColor=1F1F1F&color=1B1B1B'/>
+
+  <a href="https://coursera.org/share/f62fd75612da2954dc8811b6fb3d18f6" target="_blank">
+    <img src="https://img.shields.io/badge/Microsoft_Excel-1B1B1B?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Microsoft Excel" />
   </a>
-  
-  <a href='https://coursera.org/share/f297ee05cd30c24de626b7672914100d' target="_blank">
-    <img alt='DNN' src='https://img.shields.io/badge/DNN_| Deeplearning.AI-100000?style=for-the-badge&logo=DNN&logoColor=white&labelColor=1F1F1F&color=1B1B1B'/>
+
+  <a href="https://coursera.org/share/f297ee05cd30c24de626b7672914100d" target="_blank">
+    <img src="https://img.shields.io/badge/Deep_Neural_Networks-1B1B1B?style=for-the-badge&logo=deeplearningdotai&logoColor=white" alt="DNN by DeepLearning.AI" />
   </a>
-  
-  <a href='https://drive.google.com/file/d/1T6XyaatH99hnp_MuKN-tu4dh-EOMsrZJ/view' target="_blank">
-    <img alt='CCNA' src='https://img.shields.io/badge/CCNA-100000?style=for-the-badge&logo=CCNA&logoColor=white&labelColor=F70101&color=FA0000'/>
+
+  <a href="https://drive.google.com/file/d/1T6XyaatH99hnp_MuKN-tu4dh-EOMsrZJ/view" target="_blank">
+    <img src="https://img.shields.io/badge/CCNA-FA0000?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA" />
   </a>
-  
-  <a href='https://www.hackerrank.com/certificates/4388b7cccf37' target="_blank">
-    <img alt='SQL' src='https://img.shields.io/badge/SQL_-100000?style=for-the-badge&logo=SQL&logoColor=white&labelColor=09F009&color=07EA03'/>
+
+  <a href="https://www.hackerrank.com/certificates/4388b7cccf37" target="_blank">
+    <img src="https://img.shields.io/badge/SQL-07EA03?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   </a>
-  
-  <a href='https://drive.google.com/drive/u/0/folders/1SsS09y1Bv5lZLlkIgvMBCm5kk0Prg-T4' target="_blank">
-    <img alt='Business Data Analysis Using Excel' src='https://img.shields.io/badge/Business_Data Analysis Using Excel-100000?style=for-the-badge&logo=Business Data Analysis Using Excel&logoColor=white&labelColor=09F009&color=328906'/>
+
+  <a href="https://drive.google.com/drive/u/0/folders/1SsS09y1Bv5lZLlkIgvMBCm5kk0Prg-T4" target="_blank">
+    <img src="https://img.shields.io/badge/Business_Data_Analysis_Using_Excel-328906?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Business Data Analysis Using Excel" />
   </a>
 </p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=usfhajaj&show_icons=true&locale=en&layout=compact" alt="usfhajaj" /></p>
 
  &nbsp;&nbsp;&nbsp;&nbsp;
